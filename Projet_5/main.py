@@ -75,9 +75,7 @@ while data_load:
         #displays favorites
         cmd_sql = ("SELECT * From substitutes ")
         select_table(cmd_sql)
-        index = 0
         for value in select_table(cmd_sql):
-            index += 1
             print (f"\n\
 ----------------[Favoris n°{value[0]}]----------------\n\
 Nom         : {value[1]}\n\
@@ -95,4 +93,3 @@ URL         : {value[5]}\n\
 
     else:
         print(f"La commande [{user_choice}] n'est pas valide :")
-
