@@ -122,7 +122,7 @@ def search_substitute():
     response = requests.get(url, params=payloads)
      
     if response.status_code != 200:
-        print("pb")
+        print("Problème avec la requête HTTP")
     else:
         # call api
         json_data = response.json()
