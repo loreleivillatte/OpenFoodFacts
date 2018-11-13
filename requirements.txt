@@ -1,0 +1,9 @@
+get==1.0.3
+mysql-connector==2.1.6
+mysql-connector-python==8.0.13
+post==1.0.2
+protobuf==3.6.1
+public==2.0.1
+query-string==1.0.2
+request==1.0.2
+six==1.11.0
