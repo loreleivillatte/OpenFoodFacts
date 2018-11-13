@@ -14,5 +14,5 @@ This project uses the OpenFoodFacts API and inserts the collected data into a My
 4) Open the file "main.py" and run it, now you can interact with the program to find a healthier substitute.
 
 ## Program operation
->  press 1 for find a heathly substitute
->  press 2 for see favorites
+press 1 for find a heathly substitute
+press 2 for see favorites
