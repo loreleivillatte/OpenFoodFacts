@@ -1,6 +1,8 @@
-# Projet : 5
+# Utilisez les données publiques de l'OpenFoodFacts
+*La startup Pur Beurre travaille connait bien les habitudes alimentaires françaises.L'équipe a remarqué que leurs utilisateurs voulaient bien changer leur alimentation mais ne savaient pas bien par quoi commencer.Leur idée est donc de créer un programme qui interagirait avec la base Open Food Facts pour en récupérer les aliments, les comparer et proposer à l'utilisateur un substitut plus sain à l'aliment qui lui fait envie.*
 
 ## Cahier des charges
+
 ### Description du parcours utilisateur
 L'utilisateur est sur le terminal. Ce dernier lui affiche les choix suivants :
 1. Quel aliment souhaitez-vous remplacer ? 
